@@ -32,7 +32,7 @@ Depending upon the project how well it is built and all the requirements will me
 ## Defining Our System
   **Architecture:**
   
-   ![Architecture](https://github.com/Pruthvi-singam/L-T-Mini-Project/blob/main/Images/calarc.png)
+   ![Architecture](https://github.com/vemu12/stepin-Scientific-Calculator/blob/main/Images/calarc.png)
 
    
  - Scientific Calculator application is capable of performing following functions:
@@ -57,7 +57,7 @@ Depending upon the project how well it is built and all the requirements will me
     
 
 ## SWOT ANALYSIS
-![swot analysis](https://github.com/Pruthvi-singam/L-T-Mini-Project/blob/main/Images/scietific%20calculator.png)
+![swot analysis](https://github.com/vemu12/stepin-Scientific-Calculator/blob/main/Images/scietific%20calculator.png)
 
 
 # 4W&#39;s and 1&#39;H
