@@ -8,7 +8,7 @@ PROJECT_NAME           = Calculator
 PROJECT_NUMBER         =
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
-OUTPUT_DIRECTORY       = "C:\Users\pruth\Desktop\PRUTHVI DETAILD\L-T-Mini-Project\3_Implementaion\Document"
+OUTPUT_DIRECTORY       = "C:\Users\vemu2\OneDrive\Desktop\stepin-Scientific-Calculator-1\3_Implementaion\document"
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
 OUTPUT_LANGUAGE        = English
@@ -118,7 +118,7 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = "C:\Users\pruth\Desktop\PRUTHVI DETAILD\L-T-Mini-Project\3_Implementaion"
+INPUT                  = "C:\Users\vemu2\OneDrive\Desktop\stepin-Scientific-Calculator-1\3_Implementaion"
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
                          *.cc \
